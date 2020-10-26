@@ -5,3 +5,6 @@
 * Division
 * Square
 * Squareroot
+
+##### calculator.py file contains the python program commands.
+ 
