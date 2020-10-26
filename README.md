@@ -1,1 +1,7 @@
-# Your calculator is required to perform the following operations: addition, subtraction, multiplication, division, square, and square root.
+# Claculator that provides out puts of: 
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Square
+* Squareroot
